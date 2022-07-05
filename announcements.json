@@ -2,7 +2,6 @@
 	{
 		"announcementTitle": "The Play Update",
 		"announcementDescription": "Because somebody forgot to write these.",
-		"announcementImage": "rbxassetid://10127831909",
 		"announcementText": "\nFirst update ever!\nIncludes very important things, like the cool main menu you are currently looking at, the loading screen you just saw, and the hotbar you get when you select a profile.\nAlso added the 2 items you currently see on screen, those being the Basic Furnace and Basic Iron Dropper.\n You can view info about them at the bottom of this announcement, and you can view their stats in the minonomicon by pressing middle mouse button on the item. That sounded cooler in my head, too late!",
 		"announcementChangeLog": {
 			"added": [
@@ -28,7 +27,6 @@
 	{
 		"announcementTitle": "The Menu Update",
 		"announcementDescription": "Lovely, even more GUIs to break!",
-		"announcementImage": "rbxassetid://10127871720",
 		"announcementText": "\nYet another update.\nThis one adds menus for you to poke around in!\nThose include the inventory, shop, gamepass shop and settings.",
 		"announcementChangeLog": {
 			"added": [
