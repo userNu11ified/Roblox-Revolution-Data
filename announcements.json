@@ -3,7 +3,7 @@
 		"announcementTitle": "The Play Update",
 		"announcementDescription": "Because somebody forgot to write these.",
 		"announcementDate": "5/7/22",
-		"announcementText": "\nFirst update ever!\n\nIncludes very important things, like the cool main menu you are currently looking at, the loading screen you just saw, and the hotbar you get when you select a profile.\nAlso added the 2 items you currently see on screen, those being the Basic Furnace and Basic Iron Dropper.\nYou can view info about them at the bottom of this announcement, and you can view their stats in the minonomicon by pressing middle mouse button on the item. That sounded cooler in my head, too late!",
+		"announcementText": "\nFirst update ever!\n\nIncludes very important things, like the cool main menu you are currently looking at, the loading screen you just saw, and the hotbar you get when you select a profile.\n\nAlso added the 2 items you currently see on screen, those being the Basic Furnace and Basic Iron Dropper.\n\nYou can view info about them at the bottom of this announcement, and you can view their stats in the minenonomicon by pressing middle mouse button on the item. That sounded cooler in my head, too late!",
 		"announcementChangeLog": {
 			"added": [
 				"Loading Screens",
