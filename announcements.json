@@ -4,7 +4,7 @@
 		"announcementDescription": "Because somebody forgot to write these.",
 		"announcementDate": "5/7/22",
 		"announcementText": "\nFirst update ever!\n\nIncludes very important things, like the cool main menu\nyou are currently looking at, the loading screen you just\nsaw, and the hotbar you get when you select a profile.\nThere's also an error screen that will show up if anything\nbreaks, but hopefully you will never see it!\n\nAlso added the 2 items you currently see on screen,\nthose being the Basic Furnace and Basic Iron Dropper.\n\nYou can view info about them at the bottom of this\nannouncement, and you can view their stats in the\nminenonomicon by pressing middle mouse button on\nthe item.\nThat sounded cooler in my head, too late!",
-		"announcementChangeLog": {
+		"announcementChangelog": {
 			"added": [
 				"Loading Screens",
 				"Main Menu",
@@ -31,7 +31,7 @@
 		"announcementDescription": "Lovely, even more GUIs to break!",
 		"announcementDate": "6/7/22",
 		"announcementText": "\nYet another update.\n\nThis one adds menus for you to poke around in!\nThose include the inventory, shop, gamepass shop and settings.",
-		"announcementChangeLog": {
+		"announcementChangelog": {
 			"added": [
 				"Inventory",
 				"Shop",
