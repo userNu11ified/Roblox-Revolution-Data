@@ -8,6 +8,7 @@
 			"added": [
 				"Loading Screens",
 				"Main Menu",
+				"Error Screen",
 				"Main Menu Announcements",
 				"Hotbar",
 				"Currency Display",
@@ -35,8 +36,7 @@
 				"Inventory",
 				"Shop",
 				"Gamepass Shop",
-				"Settings",
-				"Paradoxically, Announcements"
+				"Settings"
 			],
 			"removed": [
 				"A lot of time."
